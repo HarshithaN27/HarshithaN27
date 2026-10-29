@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Harshitha Natarajan! 👋
 
-<!--
-**HarshithaN27/HarshithaN27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Backend Developer | Java Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about software development and building
+applications using Java and backend technologies.
+
+---
+
+## 👩‍💻 About Me
+
+- 🌱 Learning Java and Spring Boot
+- 💻 Interested in Backend Development
+- 🔧 Practicing Data Structures and Java Collections
+- 🚀 Building projects to improve my coding skills
+- 📚 Continuously learning new technologies
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Java
+
+### Backend Technologies
+- Spring Boot
+
+### Frontend Technologies
+- HTML
+- CSS
+
+### Tools
+- Git
+- GitHub
+- IntelliJ IDEA
+- Postman
+
+---
+
+## 📂 My Projects
+
+Explore my repositories to see my Java
+programming practice and development projects.
+
+- ☕ Java Practice Programs
+- 🚗 Vehicle Rental Management System
+- 🍽️ Food Order Exception Handling
+- 🏢 Payroll Processing System
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/harshi26/)
+
+- 💻 GitHub: [My GitHub Profile](https://github.com/HarshithaN27)
+
+- 📧 Email: nharshi2762006@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
